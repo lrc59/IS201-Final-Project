@@ -1,0 +1,39 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+        font-size: 50px;
+        text-align: center;
+}
+
+li{
+    font-size: 22px;
+}
+
+body{
+    background-color:whitesmoke;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    border: 5px solid black;
+    margin: 20px
+    padding: 10px
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+.Name{
+font-size: 30px;
+color:rgb(134, 29, 232)
+}
+.tableauplaceholder{
+    text-align: center;
+}
